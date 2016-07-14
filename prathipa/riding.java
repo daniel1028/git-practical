@@ -10,4 +10,7 @@ class Calculation{
 	  obj.sum(20,20);  
 	  
 	  }  
-	}  
+	}/*30
+           40*/
+
+  
