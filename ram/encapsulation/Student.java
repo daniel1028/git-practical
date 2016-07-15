@@ -1,4 +1,4 @@
-public class Student {
+ public class Student {
 	private String name;
 
 	public String getName() {
