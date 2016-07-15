@@ -1,5 +1,5 @@
  public class Student {
-	private String name;
+	 private String name;
 
 	public String getName() {
 		return name;

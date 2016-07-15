@@ -1,4 +1,4 @@
-public class SBI extends Bank {
+ public class SBI extends Bank {
 	int getRateOfInterest() {
 		return 8;
 	}

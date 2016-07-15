@@ -1,3 +1,3 @@
-public interface Showable {
+ public interface Showable {
 	void show();
 }
