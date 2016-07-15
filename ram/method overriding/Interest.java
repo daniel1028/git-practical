@@ -1,4 +1,4 @@
-public class Interest {
+ public class Interest {
 	public static void main(String args[]) {
 		SBI s = new SBI();
 		ICICI i = new ICICI();

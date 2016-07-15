@@ -1,5 +1,5 @@
 public class Axis extends Bank {
-	int getRateOfInterest() {
+	 int getRateOfInterest() {
 		return 9;
 	}
 }

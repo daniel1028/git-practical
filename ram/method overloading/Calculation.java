@@ -4,7 +4,7 @@ public class Calculation {
 	}
 
 	void sum(int a, int b, int c) {
-		System.out.println("Sum of a+b+c:" + (a + b + c));
+		System.ou t.println("Sum of a+b+c:" + (a + b + c));
 
 	}
 
