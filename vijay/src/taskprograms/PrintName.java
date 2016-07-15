@@ -1,5 +1,5 @@
-//Implementation of interface 
-package applicationclass;
+//Implementation of interface concept 
+package taskprograms;
 
 interface display {
 	void print();

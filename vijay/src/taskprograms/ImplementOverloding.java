@@ -1,5 +1,5 @@
-//Implement method overloading
-package applicationclass;
+//Implement method overloading concept
+package taskprograms;
 
 public class ImplementOverloding {
 	void data(int a) {
@@ -31,4 +31,3 @@ public class ImplementOverloding {
  * Values of data a : 10 values of data a and b: 10,20 double a: 5.5 Data output
  * : 30.25
  */
-

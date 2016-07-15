@@ -1,12 +1,13 @@
 //Implement Encapsulation  concept
-package applicationclass;
+package taskprograms;
 
 public class StudentDetails {
 	private String name;
 	private int age;
 
-// Define all setter and getter methods for each member field to access private variables.
-	
+	// Define all setter and getter methods for each member field to access
+	// private variables.
+
 	public String getName() {
 		return name;
 	}
@@ -29,5 +30,3 @@ public class StudentDetails {
 	}
 
 }
-
-	
